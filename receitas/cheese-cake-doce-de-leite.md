@@ -1,20 +1,20 @@
 
-#Cheesecake de Doce de Leite
+# Cheesecake de Doce de Leite
 
 
 
-##Base
+## Base
 
 
-300 gramas de biscoito maisena
-150 gramas de manteiga em temperatura ambiente 
-80 gramas de açúcar 
-1 colher de chá de canela em pó 
-1 colher de chá de gengibre em pó 
+ - 300 gramas de biscoito maisena
+ - 150 gramas de manteiga em temperatura ambiente 
+ - 80 gramas de açúcar 
+ - 1 colher de chá de canela em pó 
+ - 1 colher de chá de gengibre em pó 
 
-##Recheio
+## Recheio
 
-600 gramas de creamcheese
-600 gramas de doce de leite
-220 gramas de creme de leite
-3 ovos
+ - 600 gramas de creamcheese
+ - 600 gramas de doce de leite
+ - 220 gramas de creme de leite
+ - 3 ovos
